@@ -99,7 +99,7 @@
 	</script>
 </head>
 <body>
-	WASD - Move; Mouse Left Click: Shoot </br></br>
+	WASD - Move; Mouse Left Click: Shoot <br><br>
 	<canvas id="gameCanvas" width="500px" height="500px" style="width:500px; height:500px"></canvas>
 </body>
 </html>
